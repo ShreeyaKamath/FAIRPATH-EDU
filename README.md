@@ -4,7 +4,7 @@
 
 **A reproducible, intersectional fairness-auditing workflow for early student-risk prediction using the Open University Learning Analytics Dataset (OULAD).**
 
-**Authors:** Shreeya Kamath and Misha  
+**Authors:** Shreeya Kamath  
 **Academic context:** Fairness in Machine Learning — mini-project  
 **Status:** Research notebook and archived experimental results included (41 output artifacts).
 
