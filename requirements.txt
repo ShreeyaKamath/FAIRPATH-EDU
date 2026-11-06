@@ -1,0 +1,13 @@
+# Direct dependencies; pin versions from a successfully executed environment for exact reproducibility.
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+xgboost
+statsmodels
+fairlearn
+shap
+networkx
+ipython

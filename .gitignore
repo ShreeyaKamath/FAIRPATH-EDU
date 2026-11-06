@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+# Local OULAD data and intermediate files
+data/
+oulad/
+oulad_raw/
+# Do not ignore the intentional results/fairpath_outputs.zip artifact
