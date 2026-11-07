@@ -10,7 +10,7 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/FAIRPATH-EDU/blob/main/notebooks/FAIRPATH-EDU.ipynb)
 
-> Replace `USERNAME` in the Colab link with your GitHub username after publishing.
+
 
 ## Overview
 
